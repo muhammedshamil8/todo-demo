@@ -41,4 +41,4 @@ If you have any questions or need assistance during the class, feel free to ask 
 
 ---
 
-For more information about the BuildEMEA event, visit [BuildEMEA Website](https://buildemea.com/).
+For more information about the BuildEMEA event, visit [BuildEMEA Website](https://buildemea.connectemea.in/).
