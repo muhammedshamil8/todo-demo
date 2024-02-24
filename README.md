@@ -1,3 +1,5 @@
+<img src="./assets/Banner.jpg" alt="Banner" style="width: 100%;" />
+
 # BuildEMEA Event - Live Project Coding Section
 
 Welcome to the BuildEMEA event live class repository for the Todo App project. This repository contains the code and materials used in the live class.
